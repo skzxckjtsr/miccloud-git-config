@@ -1,0 +1,2 @@
+public class NewClassTest {
+}
